@@ -1,0 +1,1 @@
+#maximize {Ncube : complete_cube(Ncube)}.

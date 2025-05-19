@@ -1,0 +1,1 @@
+:- visible_values(V, F, Ncube, X1, Y1, Z1), visible_values(V2, F, Ncube, X2, Y2, Z2), V != V2.
